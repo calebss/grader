@@ -1,0 +1,23 @@
+{
+  "name": "captura-frontend-mocks",
+  "version": "1.0.0",
+  "description": "Mocks de API para o projeto de captura de propostas Vivere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "API",
+    "swagger"
+  ],
+  "author": "caleb_ss",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.11.0",
+    "moment": "^2.13.0",
+    "node-swagger-ui": "1.0.4",
+    "swagger-node-express": "^2.1.3"
+  }
+}
